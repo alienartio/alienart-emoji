@@ -6,6 +6,10 @@ Contains svg versions of emoji
 
 Source: https://github.com/jdecked/twemoji
 
+## Noto Emoji
+
+Source: https://github.com/googlefonts/noto-emoji
+
 **Twitter Emojies that are replaced with older versions for consistency:**
 
 [Belgium Flag](https://github.com/alienartio/alienart-emoji/blob/main/twitter/1f1e7-1f1ea.svg) - v13.1.0
