@@ -6,11 +6,11 @@ Contains svg versions of emoji
 
 Source: https://github.com/jdecked/twemoji
 
-## Noto Emoji (Feb 23, 2024)
+## Noto Emoji v15.1 (Feb 23, 2024)
 
 Source: https://github.com/googlefonts/noto-emoji
 
-## Circle Flags (Feb 23, 2024)
+## Circle Flags v2.7.0 (Feb 23, 2024)
 
 Source: https://github.com/HatScripts/circle-flags
 
