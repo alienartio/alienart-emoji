@@ -2,13 +2,21 @@
 
 Contains svg versions of emoji
 
-## Twitter Emoji v15.0.3
+## Twitter Emoji v15.0.3 (Feb 23, 2024)
 
 Source: https://github.com/jdecked/twemoji
 
-## Noto Emoji
+## Noto Emoji (Feb 23, 2024)
 
 Source: https://github.com/googlefonts/noto-emoji
+
+## Circle Flags (Feb 23, 2024)
+
+Source: https://github.com/HatScripts/circle-flags
+
+## OpenMoji v15.0 (Feb 23, 2024)
+
+Source: https://github.com/hfg-gmuend/openmoji
 
 **Twitter Emojies that are replaced with older versions for consistency:**
 
