@@ -14,9 +14,9 @@ Source: https://github.com/googlefonts/noto-emoji
 
 Source: https://github.com/HatScripts/circle-flags
 
-## OpenMoji v15.0 (Feb 23, 2024)
+## Flag Icons v7.1.0 (Feb 24, 2024)
 
-Source: https://github.com/hfg-gmuend/openmoji
+Source: https://github.com/lipis/flag-icons/
 
 **Twitter Emojies that are replaced with older versions for consistency:**
 
